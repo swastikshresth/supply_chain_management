@@ -1,12 +1,13 @@
-Step 1
 # supply_chain_management Dashboard
-** Import Data into SQL Data**
+
+Step 1
+### ** Import Data into SQL Data**
 a. Prepare a CSV file 
 b. Create table in SQL
 C. Import csv into SQL (Using a XAMPP environment with Apache server and MySQL database.)
 
 Step 2
-**ETL (Extract Transform and Load) 
+### **ETL (Extract Transform and Load) 
 **
 **1. Extract**
  a. Extract the data from the source system as a csv file and import into SQL database.
@@ -61,13 +62,13 @@ select price from supply_chain_management where price <0;
 
 # Based on Power BI dashboard for **Suplly Chain Management Dashboard**, here are detailed **insights** and **recommendations** based on each visual and KPI shown:
 
+###** 3. Load**
+
 **Key Insights**
 
-Here are the **key insights and recommendations** based on your Power BI **Supply Chain Performance & Demand Forecasting Dashboard**:
+**key insights and recommendations** based on Power BI **Supply Chain Performance & Demand Forecasting Dashboard**:
 
----
-
-## 🔍 **Insights**
+##  **Insights**
 
 ### Overall Supply Chain KPIs:
 
@@ -151,8 +152,6 @@ Here are the **key insights and recommendations** based on your Power BI **Suppl
 * 6-day average is acceptable but can be improved for customer satisfaction.
 * Explore partnerships with faster carriers on key routes.
 
----
 
-Would you like me to turn this into a PowerPoint slide or report format too?
 
 
