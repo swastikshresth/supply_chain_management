@@ -15,7 +15,8 @@ Step 2
 
 **2. Transform**
   In the transform stage, we primarily focus on cleaning the data and converting into the meaningful, insight information for analysis.
-**# Data Cleaning**
+  
+#** Data Cleaning**
 1. All row header of data type should be right (define datatye in row header before upload the csv file into mysql)
 2. Check duplicate values 
 Queries---
@@ -60,7 +61,7 @@ sku=trim(sku),( for all columns).
 select price from supply_chain_management where price <0;
  similary other column also need to check for outliers.
 
-# Based on Power BI dashboard for **Suplly Chain Management Dashboard**, here are detailed **insights** and **recommendations** based on each visual and KPI shown:
+Based on Power BI dashboard for **Suplly Chain Management Dashboard**, here are detailed **insights** and **recommendations** based on each visual and KPI shown:
 
 ###** 3. Load**
 
