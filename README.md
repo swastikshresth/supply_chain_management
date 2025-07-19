@@ -11,6 +11,7 @@ Step 2
 **
 **1. Extract**
  a. Extract the data from the source system as a csv file and import into SQL database.
+ 
  b. Ensure the daata is correctly loaded into a sql table with correct schema.
 
 **2. Transform**
